@@ -1,6 +1,6 @@
 {
   "name": "chianguyen-moroccanbur",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "moroccanbur",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "moroccanbur",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/moroccanbur/chianguyen-moroccanbur/issues"
   },
